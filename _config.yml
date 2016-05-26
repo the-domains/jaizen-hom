@@ -1,14 +1,26 @@
-layout_spectrum: 0.8767321782652289
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3460319528821856
 color:
+  saturation: 0.5366714557167143
   brandStrength: 0.04598407866433263
   lightness: 0.01961908140219748
-  saturation: 0.5366714557167143
-  rhythmicContrast: 0.10906095616519451
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#F9F4E1'
+    - '#C8AA8E'
+    - '#1D140D'
+    - '#532F00'
+    - '#7F752D'
+  rhythmicContrast: 0.1090609561651945
+layout_spectrum: 0.8767321782652289
 name: jaizen hom
