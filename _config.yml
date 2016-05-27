@@ -1,41 +1,41 @@
-name: jaizen hom
-favicon: null
-layout_spectrum: 0.8767321782652289
-typography_spectrum: 0.3460319528821856
+title: jaizen hom
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: jaizen hom
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-78405620-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5366714557167143
+  brandStrength: 0.04598407866433263
+  rhythmicContrast: 0.1090609561651945
   brandColors:
     - '#c9ab8f'
     - '#faf5e2'
     - '#1c130c'
     - '#443b02'
     - '#786e29'
-  brandStrength: 0.04598407866433263
   lightness: 0.01961908140219748
-  saturation: 0.5366714557167143
-  rhythmicContrast: 0.1090609561651945
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-78405620-1
+  facebook: null
+name: jaizen hom
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.112766
+layout_spectrum: 0.8767321782652289
