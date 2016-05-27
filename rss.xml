@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[jaizen hom]]></title>
         <description><![CDATA[jaizen hom]]></description>
-        <link>https://thegrid.ai/jaizen-hom/</link>
+        <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 02:49:15 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/jaizen-hom/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 May 2016 04:52:00 GMT</lastBuildDate>
+        <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68512221-6f69-49fc-a2ab-5fb2371877a3.jpg">]]></description>
-            <link>https://thegrid.ai/jaizen-hom/ea1353d9-b194-4bc8-9548-4fcf60795ce6/index.html</link>
+            <link>http://jaizenhom.com/ea1353d9-b194-4bc8-9548-4fcf60795ce6/index.html</link>
             <guid isPermaLink="false">ea1353d9-b194-4bc8-9548-4fcf60795ce6</guid>
             <pubDate>Wed, 25 May 2016 23:25:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manga]]></title>
+            <description><![CDATA[<article><h1>Manga</h1><p>WHooo</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9c6b083-34d2-4c3f-8075-4ce1e2790b10.png"></article>]]></description>
+            <link>http://jaizenhom.com/manga/index.html</link>
+            <guid isPermaLink="false">06c40c63-99d7-4c80-94cb-17385cf67dd1</guid>
+            <pubDate>Fri, 27 May 2016 04:51:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
