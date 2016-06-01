@@ -4,8 +4,15 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 03:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 03:24:31 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29decb04-c5b0-4768-b1a1-53b2483562a5.png">]]></description>
+            <link>http://jaizenhom.com/36511178-e909-474f-81db-5e2e7b4901d8/index.html</link>
+            <guid isPermaLink="false">36511178-e909-474f-81db-5e2e7b4901d8</guid>
+            <pubDate>Wed, 01 Jun 2016 03:24:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68512221-6f69-49fc-a2ab-5fb2371877a3.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://jaizenhom.com/7a35b9f5-88ec-4a4d-900a-2a90bdbd91b9/index.html</link>
             <guid isPermaLink="false">7a35b9f5-88ec-4a4d-900a-2a90bdbd91b9</guid>
             <pubDate>Wed, 01 Jun 2016 02:12:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Earth is between NY & LA]]></title>
-            <description><![CDATA[<article><h1>Middle Earth is between NY & LA</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f386ca07-c339-44a8-a8d2-b5c0c85fae73.jpg"></article>]]></description>
-            <link>http://jaizenhom.com/middle-earth-is-between-ny-and-la/index.html</link>
-            <guid isPermaLink="false">92b66fc2-3797-4ae0-8481-7fb45e6dab46</guid>
-            <pubDate>Wed, 01 Jun 2016 02:09:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
