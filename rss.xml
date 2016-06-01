@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jaizen hom]]></title>
-        <description><![CDATA[jaizen hom]]></description>
+        <title><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></title>
+        <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 15:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 01:49:49 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://jaizenhom.com/ea1353d9-b194-4bc8-9548-4fcf60795ce6/index.html</link>
             <guid isPermaLink="false">ea1353d9-b194-4bc8-9548-4fcf60795ce6</guid>
             <pubDate>Wed, 25 May 2016 23:25:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0ffb6ea-242a-4d6c-af9d-a1c1c919a3c5.jpg">]]></description>
+            <link>http://jaizenhom.com/66b7bb4d-c14b-4f2b-9a30-ee7e971efbf3/index.html</link>
+            <guid isPermaLink="false">66b7bb4d-c14b-4f2b-9a30-ee7e971efbf3</guid>
+            <pubDate>Wed, 01 Jun 2016 01:49:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
