@@ -1,5 +1,34 @@
-title: jaizen hom
-purpose: []
+typography_spectrum: 0.112766
+color:
+  saturation: 0.5366714557167143
+  brandStrength: 0.04598407866433263
+  rhythmicContrast: 0.1090609561651945
+  brandColors:
+    - '#c9ab8f'
+    - '#faf5e2'
+    - '#1c130c'
+    - '#443b02'
+    - '#786e29'
+  lightness: 0.01961908140219748
+opengraph:
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg'
+  type: null
+  appId: null
+layout_spectrum: 0.8767321782652289
+analytics:
+  twitter: null
+  google: UA-78405620-1
+  facebook: null
+author:
+  name: Jaizen Hom
+  email: jaizen.hom@gmail.com
+  url: 'http://jaizenhom.com'
+name: jaizen hom
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg'
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.5366714557167143
-  brandStrength: 0.04598407866433263
-  rhythmicContrast: 0.1090609561651945
-  brandColors:
-    - '#c9ab8f'
-    - '#faf5e2'
-    - '#1c130c'
-    - '#443b02'
-    - '#786e29'
-  lightness: 0.01961908140219748
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-78405620-1
-  facebook: null
-name: jaizen hom
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.112766
-layout_spectrum: 0.8767321782652289
+title: Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer
+purpose: []
