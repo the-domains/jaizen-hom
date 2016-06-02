@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 05:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 05:50:08 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>http://jaizenhom.com/homjaizen-hom/index.html</link>
             <guid isPermaLink="false">ea1353d9-b194-4bc8-9548-4fcf60795ce6</guid>
             <pubDate>Wed, 01 Jun 2016 03:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d383ee0-0f72-464d-adbb-0705b4a4a65c.jpg">]]></description>
+            <link>http://jaizenhom.com/520e7c40-c67e-477a-bb9d-99d7f86d5470/index.html</link>
+            <guid isPermaLink="false">520e7c40-c67e-477a-bb9d-99d7f86d5470</guid>
+            <pubDate>Thu, 02 Jun 2016 05:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jaizenhom.com/a4d4d268-2bb8-4368-9c2f-5c9292cd21f4/index.html</link>
             <guid isPermaLink="false">a4d4d268-2bb8-4368-9c2f-5c9292cd21f4</guid>
             <pubDate>Wed, 01 Jun 2016 03:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All-New 2015 Kia Sedona MPV - "No Compromises" 광고 :30 AD]]></title>
-            <description><![CDATA[<article><h1>All-New 2015 Kia Sedona MPV - "No Compromises" 광고 :30 AD</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2a0fe7bb872c830447b1f406fa2a6f93b1bcb5c.jpg"></article>]]></description>
-            <link>https://youtu.be/7kHrfvy2Hho</link>
-            <guid isPermaLink="false">673b8133-3e6e-4fc3-8283-436beeae22b4</guid>
-            <pubDate>Wed, 01 Jun 2016 02:50:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
