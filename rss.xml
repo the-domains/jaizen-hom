@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 05:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 05:44:45 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,13 +12,6 @@
             <link>http://jaizenhom.com/homjaizen-hom/index.html</link>
             <guid isPermaLink="false">ea1353d9-b194-4bc8-9548-4fcf60795ce6</guid>
             <pubDate>Wed, 01 Jun 2016 03:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c9c208-24f6-46c1-aa9b-daf6b479440a.jpg">]]></description>
-            <link>http://jaizenhom.com/43268a92-4e5f-46f6-8011-9d3c635de22d/index.html</link>
-            <guid isPermaLink="false">43268a92-4e5f-46f6-8011-9d3c635de22d</guid>
-            <pubDate>Thu, 02 Jun 2016 05:44:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://twitter.com/jaizenhom?edit=true</link>
             <guid isPermaLink="false">dab2deb7-d29b-4137-98b9-97487fda5be8</guid>
             <pubDate>Wed, 01 Jun 2016 02:12:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e5b9a54-5dd8-43c0-98f4-005d13ba7f4c.jpg">]]></description>
+            <link>http://jaizenhom.com/7a35b9f5-88ec-4a4d-900a-2a90bdbd91b9/index.html</link>
+            <guid isPermaLink="false">7a35b9f5-88ec-4a4d-900a-2a90bdbd91b9</guid>
+            <pubDate>Wed, 01 Jun 2016 02:12:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
