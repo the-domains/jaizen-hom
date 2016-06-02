@@ -7,15 +7,52 @@ related: []
 publisher:
   url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
 keywords: []
 description: 'Noches calurosas, Budweisers refrescantes. Descubre por qué son la combinación perfecta. http://www.budweiser.es http://www.facebook.com/BudweiserSpain https://twitter.com/Budweiser_es'
-app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=iMnSHTI4SIs'
+inLanguage: ca
+app_links:
+  - url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
+    type: ios
+    namespace: ai
+    app_store_id: '544007664'
+    app_name: YouTube
+  - url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
+    type: android
+    namespace: ai
+    app_name: YouTube
+    package: com.google.android.youtube
+  - url: 'https://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
+    type: web
+    namespace: ai
+  - url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
+    namespace: twitter
+    type: ipad
+    name: YouTube
+    id: '544007664'
+  - url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
+    namespace: twitter
+    type: iphone
+    name: YouTube
+    id: '544007664'
+  - url: 'https://www.youtube.com/watch?v=iMnSHTI4SIs'
+    namespace: twitter
+    type: googleplay
+    name: YouTube
+    id: com.google.android.youtube
+  - path: http/www.youtube.com/watch?v=iMnSHTI4SIs
+    package: com.google.android.youtube
+    namespace: google
+    type: android
+  - path: vnd.youtube/www.youtube.com/watch?v=iMnSHTI4SIs
+    package: '544007664'
+    namespace: google
+    type: ios
+isBasedOnUrl: 'https://youtu.be/iMnSHTI4SIs'
 title: Budweiser - Perfect Match
-datePublished: '2016-06-02T21:30:59.544Z'
-dateModified: '2016-06-02T21:30:48.144Z'
+datePublished: '2016-06-02T21:35:35.229Z'
+dateModified: '2016-06-02T21:35:22.562Z'
 starred: false
 sourcePath: _posts/2016-06-02-budweiser-perfect-match.md
 inFeed: true
