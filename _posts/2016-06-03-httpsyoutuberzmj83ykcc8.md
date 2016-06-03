@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-06-03T02:58:30.910Z'
+datePublished: '2016-06-03T03:13:46.446Z'
 author: []
-dateModified: '2016-06-03T02:58:17.065Z'
+dateModified: '2016-06-03T03:13:39.362Z'
 title: ''
 description: 'https://youtu.be/rZmJ83YKcC8'
 starred: false
@@ -14,6 +14,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9c42a4b-6221-4995-ad37-b6ddb50018f1.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad1c4046-b700-44ec-8e85-4b85a90a3efb.png)
 
 https://youtu.be/rZmJ83YKcC8
