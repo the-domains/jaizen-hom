@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 03:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 03:23:03 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://jaizenhom.com/22749ff1-b679-4e1f-bed5-358aac935221/index.html</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Thu, 02 Jun 2016 21:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3deeff12-7e40-4895-810f-dc59ea65f612.jpg">]]></description>
+            <link>http://jaizenhom.com/4e715994-4d88-4ad9-bb1a-0badf40b435c/index.html</link>
+            <guid isPermaLink="false">4e715994-4d88-4ad9-bb1a-0badf40b435c</guid>
+            <pubDate>Fri, 03 Jun 2016 03:22:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budweiser - Perfect Match]]></title>
@@ -68,13 +75,6 @@
             <link>http://jaizenhom.com/ca34c497-c3cb-4eb0-be94-0f99cc5c467c/index.html</link>
             <guid isPermaLink="false">ca34c497-c3cb-4eb0-be94-0f99cc5c467c</guid>
             <pubDate>Fri, 03 Jun 2016 03:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbf71e87-bd49-4a37-9830-6cafc35a92cf.jpg">]]></description>
-            <link>http://jaizenhom.com/41cc55c9-c488-40fd-b5de-3d0e356cad28/index.html</link>
-            <guid isPermaLink="false">41cc55c9-c488-40fd-b5de-3d0e356cad28</guid>
-            <pubDate>Fri, 03 Jun 2016 03:15:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
