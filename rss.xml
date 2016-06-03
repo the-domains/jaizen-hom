@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 03:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 03:23:33 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://jaizenhom.com/22749ff1-b679-4e1f-bed5-358aac935221/index.html</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Thu, 02 Jun 2016 21:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c9c208-24f6-46c1-aa9b-daf6b479440a.jpg">]]></description>
+            <link>http://jaizenhom.com/43268a92-4e5f-46f6-8011-9d3c635de22d/index.html</link>
+            <guid isPermaLink="false">43268a92-4e5f-46f6-8011-9d3c635de22d</guid>
+            <pubDate>Fri, 03 Jun 2016 03:23:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jaizenhom.com/4e715994-4d88-4ad9-bb1a-0badf40b435c/index.html</link>
             <guid isPermaLink="false">4e715994-4d88-4ad9-bb1a-0badf40b435c</guid>
             <pubDate>Fri, 03 Jun 2016 03:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Budweiser - Perfect Match]]></title>
-            <description><![CDATA[<article><h1>Budweiser - Perfect Match</h1><p>Noches calurosas, Budweisers refrescantes. Descubre por qué son la combinación perfecta. http://www.budweiser.es http://www.facebook.com/BudweiserSpain https://twitter.com/Budweiser_es</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e35a6f3e7777c852549c3dae94fd491d1056fff.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=iMnSHTI4SIs</link>
-            <guid isPermaLink="false">829f7226-fae2-4b37-8584-b114ccf59717</guid>
-            <pubDate>Fri, 03 Jun 2016 03:22:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
