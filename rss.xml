@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 03:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 03:23:27 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://jaizenhom.com/22749ff1-b679-4e1f-bed5-358aac935221/index.html</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Thu, 02 Jun 2016 21:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a491e779-0d4d-4196-8766-d2789e2b38dd.jpg">]]></description>
+            <link>http://jaizenhom.com/d5e4acbc-a52a-41e4-b8af-412db9ea6385/index.html</link>
+            <guid isPermaLink="false">d5e4acbc-a52a-41e4-b8af-412db9ea6385</guid>
+            <pubDate>Fri, 03 Jun 2016 03:23:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=iMnSHTI4SIs</link>
             <guid isPermaLink="false">829f7226-fae2-4b37-8584-b114ccf59717</guid>
             <pubDate>Fri, 03 Jun 2016 03:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ca4efce-9947-4511-beb9-c7a08055a1df.jpg">]]></description>
-            <link>http://jaizenhom.com/a26d338a-3ae0-421a-aac2-d8a727312c39/index.html</link>
-            <guid isPermaLink="false">a26d338a-3ae0-421a-aac2-d8a727312c39</guid>
-            <pubDate>Fri, 03 Jun 2016 03:22:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
