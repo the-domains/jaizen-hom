@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 22:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 22:05:46 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98756874-255e-465d-9cc1-0dfd97ecbf91.jpg">]]></description>
+            <link>http://jaizenhom.com/bb7d2fa5-b1ae-4863-ad13-a0d6b52c205e/index.html</link>
+            <guid isPermaLink="false">bb7d2fa5-b1ae-4863-ad13-a0d6b52c205e</guid>
+            <pubDate>Fri, 03 Jun 2016 22:05:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jaizenhom.com/974643f3-0950-46c3-b261-c3ce61ba6a95/index.html</link>
             <guid isPermaLink="false">974643f3-0950-46c3-b261-c3ce61ba6a95</guid>
             <pubDate>Fri, 03 Jun 2016 21:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac02bb03-2ada-4724-a0e1-e3027d4bf378.jpg">]]></description>
-            <link>http://jaizenhom.com/d46a10a1-a788-46cb-a6f8-3389edbc0711/index.html</link>
-            <guid isPermaLink="false">d46a10a1-a788-46cb-a6f8-3389edbc0711</guid>
-            <pubDate>Fri, 03 Jun 2016 21:31:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
