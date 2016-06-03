@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 02:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 02:44:24 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://jaizenhom.com/22749ff1-b679-4e1f-bed5-358aac935221/index.html</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Thu, 02 Jun 2016 21:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e531f8eb-b118-4703-a443-1b432d8eebaf.jpg">]]></description>
+            <link>http://jaizenhom.com/404d78f7-d463-49fb-a2bc-c5336b43c95e/index.html</link>
+            <guid isPermaLink="false">404d78f7-d463-49fb-a2bc-c5336b43c95e</guid>
+            <pubDate>Fri, 03 Jun 2016 02:44:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jaizenhom.com/a7f3b9c1-a5cf-4144-abf8-0f513b73500b/index.html</link>
             <guid isPermaLink="false">a7f3b9c1-a5cf-4144-abf8-0f513b73500b</guid>
             <pubDate>Fri, 03 Jun 2016 02:43:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d46c2cde-4b0c-4b50-b0c1-77d702da0086.jpg">]]></description>
-            <link>http://jaizenhom.com/b7394ec9-0463-4414-9506-9a6005980deb/index.html</link>
-            <guid isPermaLink="false">b7394ec9-0463-4414-9506-9a6005980deb</guid>
-            <pubDate>Fri, 03 Jun 2016 02:43:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
