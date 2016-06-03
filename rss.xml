@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 23:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 23:30:29 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df0770f5-d5df-4601-8b8d-59095eb8056a.jpg">]]></description>
+            <link>http://jaizenhom.com/0e8a24e6-3efa-4f21-a6b4-c7cae56eeeea/index.html</link>
+            <guid isPermaLink="false">0e8a24e6-3efa-4f21-a6b4-c7cae56eeeea</guid>
+            <pubDate>Fri, 03 Jun 2016 23:29:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jaizenhom.com/bccda06b-4aa4-4332-a6e5-b07f63b73aae/index.html</link>
             <guid isPermaLink="false">bccda06b-4aa4-4332-a6e5-b07f63b73aae</guid>
             <pubDate>Fri, 03 Jun 2016 23:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4abf74e4-2a8a-46f2-9e43-5d35849b358c.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4abf74e4-2a8a-46f2-9e43-5d35849b358c.jpg</link>
-            <guid isPermaLink="false">419d56db-9334-45d3-b65c-42b96706d65d</guid>
-            <pubDate>Fri, 03 Jun 2016 23:08:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
