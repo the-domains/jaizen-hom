@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 02:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 02:47:51 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>http://jaizenhom.com/22749ff1-b679-4e1f-bed5-358aac935221/index.html</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Thu, 02 Jun 2016 21:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f513404d-070b-4306-84a5-70babe4e70df.jpg">]]></description>
+            <link>http://jaizenhom.com/bccda06b-4aa4-4332-a6e5-b07f63b73aae/index.html</link>
+            <guid isPermaLink="false">bccda06b-4aa4-4332-a6e5-b07f63b73aae</guid>
+            <pubDate>Fri, 03 Jun 2016 02:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c00e0cc-42a8-4791-9d16-1591ab10ae97.jpg">]]></description>
+            <link>http://jaizenhom.com/36ea3059-e99b-493d-830c-2832ca53f128/index.html</link>
+            <guid isPermaLink="false">36ea3059-e99b-493d-830c-2832ca53f128</guid>
+            <pubDate>Fri, 03 Jun 2016 02:47:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,20 +74,6 @@
             <link>http://jaizenhom.com/2b96a470-e1c2-47ec-a993-ca2c56cbd4ae/index.html</link>
             <guid isPermaLink="false">2b96a470-e1c2-47ec-a993-ca2c56cbd4ae</guid>
             <pubDate>Fri, 03 Jun 2016 02:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e531f8eb-b118-4703-a443-1b432d8eebaf.jpg">]]></description>
-            <link>http://jaizenhom.com/404d78f7-d463-49fb-a2bc-c5336b43c95e/index.html</link>
-            <guid isPermaLink="false">404d78f7-d463-49fb-a2bc-c5336b43c95e</guid>
-            <pubDate>Fri, 03 Jun 2016 02:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ab71164-1312-4a7b-9bb2-9e37e8807d04.jpg">]]></description>
-            <link>http://jaizenhom.com/000d7c0a-f254-467e-9ea2-e81b66c65f5a/index.html</link>
-            <guid isPermaLink="false">000d7c0a-f254-467e-9ea2-e81b66c65f5a</guid>
-            <pubDate>Fri, 03 Jun 2016 02:44:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
