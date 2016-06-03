@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 23:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 23:19:18 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0794f53-c904-4060-9e33-c08564dd2ace.jpg">]]></description>
+            <link>http://jaizenhom.com/c28f492b-9e02-43f0-a49c-c6e02e98bd91/index.html</link>
+            <guid isPermaLink="false">c28f492b-9e02-43f0-a49c-c6e02e98bd91</guid>
+            <pubDate>Fri, 03 Jun 2016 23:19:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cce3f7e7-0343-4e90-b1e9-e1e3d5538a31.gif</link>
             <guid isPermaLink="false">c06a2b19-c810-43fe-bef8-79ddb2d248af</guid>
             <pubDate>Fri, 03 Jun 2016 22:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91316c53-c62b-46eb-8751-894e7ddc8181.png">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/91316c53-c62b-46eb-8751-894e7ddc8181.png</link>
-            <guid isPermaLink="false">bd7eb4a9-688c-49a0-95b6-219b80cd5d4e</guid>
-            <pubDate>Fri, 03 Jun 2016 22:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
