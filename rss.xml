@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 01:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 01:31:19 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d30e827d-9abe-435a-8c3c-b995ffc6cb9a.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d30e827d-9abe-435a-8c3c-b995ffc6cb9a.jpg</link>
+            <guid isPermaLink="false">b5485f77-9f88-47f1-a7b6-ae24c7cbde4a</guid>
+            <pubDate>Sat, 04 Jun 2016 01:31:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0e36f74-a5a8-41b3-91fd-14a0e03b2bf4.jpg</link>
             <guid isPermaLink="false">eb35db79-3f5b-4a36-9491-7aad0d4ecd42</guid>
             <pubDate>Sat, 04 Jun 2016 01:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad6780f1-0980-4ad3-8463-8b826bc00ccd.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad6780f1-0980-4ad3-8463-8b826bc00ccd.jpg</link>
-            <guid isPermaLink="false">d6a1d9de-47d7-44a1-b118-d950cb5d0e86</guid>
-            <pubDate>Sat, 04 Jun 2016 01:14:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
