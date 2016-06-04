@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 02:57:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 02:59:51 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,12 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/JaizenHom</link>
+            <guid isPermaLink="false">22909ab0-1104-4b39-9ad1-7d450ea4cbcf</guid>
+            <pubDate>Sat, 04 Jun 2016 02:59:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +74,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fd00704-34ba-4a02-8ccc-0e7c07523db8.jpg</link>
             <guid isPermaLink="false">c3c2917c-25f1-4e36-87a0-25a5745acdc2</guid>
             <pubDate>Sat, 04 Jun 2016 02:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30b99cf5-2937-4c74-875b-96d02c45e8ec.jpg">]]></description>
-            <link>http://jaizenhom.com/9e085740-9911-4edb-b400-db00b038c734/index.html</link>
-            <guid isPermaLink="false">9e085740-9911-4edb-b400-db00b038c734</guid>
-            <pubDate>Sat, 04 Jun 2016 02:23:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
