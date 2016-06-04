@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 03:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 03:14:18 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a8b10e9-88c2-4f29-a436-7851b362769e.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a8b10e9-88c2-4f29-a436-7851b362769e.jpg</link>
+            <guid isPermaLink="false">ccbcb578-13e1-4dfd-807c-e7a487bb4344</guid>
+            <pubDate>Sat, 04 Jun 2016 03:14:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budweiser - Perfect Match]]></title>
@@ -67,13 +74,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/305b2a80-edc2-45c9-a361-2ea39dd6330e.jpg</link>
             <guid isPermaLink="false">724321df-32e4-4aa2-b752-d9b99514a975</guid>
             <pubDate>Sat, 04 Jun 2016 02:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b88e29b-9c23-4cf6-aeb0-b073df0d19b0.jpg">]]></description>
-            <link>http://jaizenhom.com/1c425d04-077d-4af9-8a3e-1608292799a7/index.html</link>
-            <guid isPermaLink="false">1c425d04-077d-4af9-8a3e-1608292799a7</guid>
-            <pubDate>Sat, 04 Jun 2016 02:55:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
