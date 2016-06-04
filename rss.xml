@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 01:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 01:52:18 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa09e0ee-0761-48ff-a84b-10adfbf40d16.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa09e0ee-0761-48ff-a84b-10adfbf40d16.jpg</link>
+            <guid isPermaLink="false">c6729cc2-527e-486d-af25-37a8babf1efd</guid>
+            <pubDate>Sat, 04 Jun 2016 01:52:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Middle Earth is between NY & LA]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d4e91c6-74b3-40d0-8622-bee360988ac1.jpg</link>
             <guid isPermaLink="false">b94804fa-2464-4bb2-be67-b62ddfd4299f</guid>
             <pubDate>Sat, 04 Jun 2016 01:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f96867d-1efd-4b7d-87bf-4ec3b1d9054f.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f96867d-1efd-4b7d-87bf-4ec3b1d9054f.jpg</link>
-            <guid isPermaLink="false">f06f9713-0f17-40ec-888a-89fc9954eee0</guid>
-            <pubDate>Sat, 04 Jun 2016 01:26:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
