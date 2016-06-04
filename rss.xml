@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 01:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 01:57:52 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a7807e3-df5d-4dbd-bc35-decfd1f784ae.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a7807e3-df5d-4dbd-bc35-decfd1f784ae.jpg</link>
+            <guid isPermaLink="false">6e6c7624-d482-4522-8647-17f468bfa9a9</guid>
+            <pubDate>Sat, 04 Jun 2016 01:57:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7fe2f55-5db5-41e2-89d3-259347d6359e.jpg</link>
             <guid isPermaLink="false">5fc6cd5a-e769-48ef-ac55-7b9d941fbc69</guid>
             <pubDate>Sat, 04 Jun 2016 01:38:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7641ab1-9adb-477e-85ce-f4623026c630.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7641ab1-9adb-477e-85ce-f4623026c630.jpg</link>
-            <guid isPermaLink="false">d442f84a-682e-441f-ab99-f94f7e3530b1</guid>
-            <pubDate>Sat, 04 Jun 2016 01:37:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
