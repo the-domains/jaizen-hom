@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 01:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 01:44:48 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Earth is between NY & LA]]></title>
+            <description><![CDATA[<article><h1>Middle Earth is between NY & LA</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f386ca07-c339-44a8-a8d2-b5c0c85fae73.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f386ca07-c339-44a8-a8d2-b5c0c85fae73.jpg</link>
+            <guid isPermaLink="false">92b66fc2-3797-4ae0-8481-7fb45e6dab46</guid>
+            <pubDate>Sat, 04 Jun 2016 01:44:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f96867d-1efd-4b7d-87bf-4ec3b1d9054f.jpg</link>
             <guid isPermaLink="false">f06f9713-0f17-40ec-888a-89fc9954eee0</guid>
             <pubDate>Sat, 04 Jun 2016 01:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8e2b871-2f08-4cdb-b70c-2b238388007b.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8e2b871-2f08-4cdb-b70c-2b238388007b.jpg</link>
-            <guid isPermaLink="false">8f695f20-a049-4797-a80e-f6807c3318fc</guid>
-            <pubDate>Sat, 04 Jun 2016 01:24:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
