@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 02:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 02:05:15 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[D&G]]></title>
+            <description><![CDATA[<article><h1>D&G</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7234228-6c5d-4d0a-a563-1fbd439db1c3.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7234228-6c5d-4d0a-a563-1fbd439db1c3.jpg</link>
+            <guid isPermaLink="false">abe260fd-1875-4d28-8559-a8ae266e77fb</guid>
+            <pubDate>Sat, 04 Jun 2016 02:05:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f386ca07-c339-44a8-a8d2-b5c0c85fae73.jpg</link>
             <guid isPermaLink="false">92b66fc2-3797-4ae0-8481-7fb45e6dab46</guid>
             <pubDate>Sat, 04 Jun 2016 01:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a3d1cad-3156-49da-9668-a8586bbc0288.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a3d1cad-3156-49da-9668-a8586bbc0288.jpg</link>
-            <guid isPermaLink="false">4e5f9c77-95c6-4dd6-a350-0d88e44a8097</guid>
-            <pubDate>Sat, 04 Jun 2016 01:42:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
