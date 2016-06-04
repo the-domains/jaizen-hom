@@ -4,7 +4,7 @@
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 03:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 03:35:30 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hom...Jaizen Hom...]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
             <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
             <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/139e8af6-cbf7-44c0-98cf-ac7e96b29a5e.jpg">]]></description>
+            <link>http://jaizenhom.com/58a473bb-fabb-4676-b93f-e34bb153952f/index.html</link>
+            <guid isPermaLink="false">58a473bb-fabb-4676-b93f-e34bb153952f</guid>
+            <pubDate>Sat, 04 Jun 2016 03:35:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jaizenhom.com/92092ecd-3288-4e26-baa2-73b553f0a9a4/index.html</link>
             <guid isPermaLink="false">92092ecd-3288-4e26-baa2-73b553f0a9a4</guid>
             <pubDate>Sat, 04 Jun 2016 03:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/863c20fe-4d81-493c-8b9a-010fb77e65ab.jpg">]]></description>
-            <link>http://jaizenhom.com/a304c2b6-fbdb-4413-be0b-8f5767051d79/index.html</link>
-            <guid isPermaLink="false">a304c2b6-fbdb-4413-be0b-8f5767051d79</guid>
-            <pubDate>Sat, 04 Jun 2016 03:24:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
