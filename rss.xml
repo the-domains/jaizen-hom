@@ -2,79 +2,16 @@
     <channel>
         <title><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></title>
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
-        <link>http://jaizenhom.com/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 03:43:24 GMT</lastBuildDate>
-        <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 19:46:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Hom...Jaizen Hom...]]></title>
-            <description><![CDATA[<article><h1>Hom...Jaizen Hom...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f01b2a-4f1a-43bb-9ad4-12d5e47c3a73.jpg</link>
-            <guid isPermaLink="false">22749ff1-b679-4e1f-bed5-358aac935221</guid>
-            <pubDate>Fri, 03 Jun 2016 20:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebe1c40a-ab27-4e0a-b095-5c211b34414a.png">]]></description>
-            <link>http://jaizenhom.com/9398fb57-4a49-4650-91c8-e812619cd2df/index.html</link>
-            <guid isPermaLink="false">9398fb57-4a49-4650-91c8-e812619cd2df</guid>
-            <pubDate>Sat, 04 Jun 2016 03:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/139e8af6-cbf7-44c0-98cf-ac7e96b29a5e.jpg">]]></description>
-            <link>http://jaizenhom.com/58a473bb-fabb-4676-b93f-e34bb153952f/index.html</link>
-            <guid isPermaLink="false">58a473bb-fabb-4676-b93f-e34bb153952f</guid>
-            <pubDate>Sat, 04 Jun 2016 03:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96381d3d-be0b-4610-9915-eb68a24d9d05.jpg">]]></description>
-            <link>http://jaizenhom.com/49c414c2-7ab3-4421-a913-9010c6a0deaa/index.html</link>
-            <guid isPermaLink="false">49c414c2-7ab3-4421-a913-9010c6a0deaa</guid>
-            <pubDate>Sat, 04 Jun 2016 03:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d36074e5-007f-425c-ae14-5fa7318596a1.jpg">]]></description>
-            <link>http://jaizenhom.com/6e709b0a-ee1e-4459-8c91-3e9714067ca1/index.html</link>
-            <guid isPermaLink="false">6e709b0a-ee1e-4459-8c91-3e9714067ca1</guid>
-            <pubDate>Sat, 04 Jun 2016 03:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28ea05fe-669f-4d8e-bf4d-bcc3c5abfe05.jpg">]]></description>
-            <link>http://jaizenhom.com/b047d857-7742-4d8a-98ba-397e247082f9/index.html</link>
-            <guid isPermaLink="false">b047d857-7742-4d8a-98ba-397e247082f9</guid>
-            <pubDate>Sat, 04 Jun 2016 03:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5163a8d9-5c20-43fe-ac8a-cbc041f1f486.jpg">]]></description>
-            <link>http://jaizenhom.com/ff76669c-d151-44e6-b5df-80713245c6b5/index.html</link>
-            <guid isPermaLink="false">ff76669c-d151-44e6-b5df-80713245c6b5</guid>
-            <pubDate>Sat, 04 Jun 2016 03:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcd24903-658e-4a61-a431-5e476a1eea04.jpg">]]></description>
-            <link>http://jaizenhom.com/9c99208f-4bd5-4137-9eae-c71f8c620460/index.html</link>
-            <guid isPermaLink="false">9c99208f-4bd5-4137-9eae-c71f8c620460</guid>
-            <pubDate>Sat, 04 Jun 2016 03:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcaf68e3-4dac-4006-ba88-94614f8f3eaa.jpg">]]></description>
-            <link>http://jaizenhom.com/f43373d4-fa4d-48fe-afc3-120d38ecf444/index.html</link>
-            <guid isPermaLink="false">f43373d4-fa4d-48fe-afc3-120d38ecf444</guid>
-            <pubDate>Sat, 04 Jun 2016 03:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/353c9cb3-9ca6-4c9f-ac4f-04c9df28961d.jpg">]]></description>
-            <link>http://jaizenhom.com/c81bdec2-3120-463a-83e2-a4283d8737dc/index.html</link>
-            <guid isPermaLink="false">c81bdec2-3120-463a-83e2-a4283d8737dc</guid>
-            <pubDate>Sat, 04 Jun 2016 03:26:46 GMT</pubDate>
+            <title><![CDATA[jaizen hom]]></title>
+            <description><![CDATA[<article><h1>jaizen hom</h1><p>https://vimeo.com/108550810</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a47b860-25a6-4cd0-9206-6e52c4715959.jpg"></article>]]></description>
+            <link>undefinedjaizen-hom/index.html</link>
+            <guid isPermaLink="false">3ac589e2-45eb-49c2-be4e-d1d09f68fda0</guid>
+            <pubDate>Mon, 06 Jun 2016 19:46:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
