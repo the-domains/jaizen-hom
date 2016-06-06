@@ -1,34 +1,11 @@
-typography_spectrum: 0.112766
-color:
-  saturation: 0.3125972237903625
-  brandStrength: 0.43407936044968665
-  rhythmicContrast: 0.1611969880759716
-  brandColors:
-    - '#F7F2B2'
-    - '#ADCF4F'
-    - '#84815B'
-    - '#4A1A2C'
-    - '#8E3557'
-  lightness: 0.49253317969851196
-opengraph:
-  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg'
-  type: null
-  appId: null
+name: jaizen hom
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg'
 layout_spectrum: 0.9764073800761253
-analytics:
-  twitter: null
-  google: UA-78405620-1
-  facebook: '233560110358876'
+typography_spectrum: 0.112766
 author:
   name: Jaizen Hom
   email: jaizen.hom@gmail.com
   url: 'http://jaizenhom.com'
-name: jaizen hom
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg'
 collections:
   - index:
       path: /
@@ -41,5 +18,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer
+title: Hom...Jaizen Hom... Multi-National Man of Mystery... Spokesmodel + SAG Actor + Super Producer
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-78405620-1
+  facebook: '233560110358876'
+  twitter: null
+opengraph:
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg'
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
+  brandStrength: 0.43407936044968665
+  lightness: 0.49253317969851196
+  saturation: 0.3125972237903625
+  rhythmicContrast: 0.1611969880759716
 purpose: []
