@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></title>
         <description><![CDATA[Multi-National Man of Mystery... Author + Artist + Spokesmodel + Actor + Producer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 20:16:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 20:35:16 GMT</lastBuildDate>
+        <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hom...jaizen hom...]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5302a4b9-b4ea-4132-9588-1253636e4b29.jpg">]]></description>
-            <link>undefinedhomjaizen-hom/index.html</link>
+            <link>http://jaizenhom.com/homjaizen-hom/index.html</link>
             <guid isPermaLink="false">634e4dc8-5438-4331-9466-e7c2f80bdf8b</guid>
             <pubDate>Mon, 06 Jun 2016 20:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/805f4182-0af3-4b84-84ac-3c0ff648a2fa.jpg">]]></description>
+            <link>http://jaizenhom.com/httptinyurlcomjaizenhom-movinon/index.html</link>
+            <guid isPermaLink="false">e97a80ed-81f7-47db-b454-717fd301d788</guid>
+            <pubDate>Mon, 06 Jun 2016 20:35:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
