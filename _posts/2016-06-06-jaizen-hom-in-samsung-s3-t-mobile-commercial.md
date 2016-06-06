@@ -6,15 +6,17 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: jaizen hom in "samsung s3 t-mobile commercial"
-datePublished: '2016-06-06T22:32:01.256Z'
-dateModified: '2016-06-06T22:31:15.064Z'
+datePublished: '2016-06-06T22:37:09.715Z'
+dateModified: '2016-06-06T22:36:44.154Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-06-jaizen-hom-in-samsung-s3-t-mobile-commercial.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-jaizen-hom-in-samsung-s3-t-mobile-commercial.md
 _type: Blurb
 
 ---
-jaizen hom in "samsung s3 t-mobile commercial"
+[jaizen hom in "samsung s3 t-mobile commercial"][0]
+
+[0]: https://www.youtube.com/watch?v=Nl9mDhe_Lco
