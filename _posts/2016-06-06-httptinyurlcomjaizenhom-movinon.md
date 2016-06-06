@@ -4,15 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'http://tinyurl.com/jaizenhom-movinon '
-datePublished: '2016-06-06T20:35:15.131Z'
-dateModified: '2016-06-06T20:35:03.033Z'
+description: 'http://tinyurl.com/jaizenhom-movinon'
+datePublished: '2016-06-06T20:38:28.094Z'
+dateModified: '2016-06-06T20:35:24.432Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-06-httptinyurlcomjaizenhom-movinon.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-httptinyurlcomjaizenhom-movinon.md
 url: httptinyurlcomjaizenhom-movinon/index.html
 _type: Article
 
