@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-07T02:10:50.484Z'
-dateModified: '2016-06-07T02:09:57.299Z'
+datePublished: '2016-06-07T02:13:55.917Z'
+dateModified: '2016-06-07T02:10:58.355Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-brief-portfolio.md
@@ -20,9 +20,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9047b805-4ff6-456c-bfdd-2011a43a54c0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6e38583-ef5a-4116-9415-722dd291c9b3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9044a36f-8bd4-40e3-9add-596ecb94be4f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05ca8f64-9f50-4806-b9f8-2ed3f9df1b61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4dd808-d80d-4deb-a689-8bbb051970e7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c40d02e-28d4-4c2f-9e5c-8610c4242139.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05ca8f64-9f50-4806-b9f8-2ed3f9df1b61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63e4a62-4ce5-4730-8f09-05d31173daa3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03e1c978-5705-4b40-ba37-bf1be7936417.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b92368b-6c66-4d45-955f-c2a8a8e9bc6b.jpg)
