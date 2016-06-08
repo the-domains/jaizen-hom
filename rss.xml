@@ -4,7 +4,7 @@
         <description><![CDATA[Hom...Jaizen Hom...]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 17:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 17:25:00 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bio]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Wed, 08 Jun 2016 17:18:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[portfolio]]></title>
+            <title><![CDATA[Portfolio]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9047b805-4ff6-456c-bfdd-2011a43a54c0.jpg">]]></description>
             <link>http://jaizenhom.com/brief-portfolio/index.html</link>
             <guid isPermaLink="false">5606e32d-ba27-45e6-ad69-5b88c63b2768</guid>
-            <pubDate>Wed, 08 Jun 2016 17:22:03 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2016 17:24:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
