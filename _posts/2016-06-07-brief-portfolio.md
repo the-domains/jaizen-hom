@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-08T17:22:03.048Z'
-dateModified: '2016-06-08T17:16:56.970Z'
+datePublished: '2016-06-08T17:24:45.637Z'
+dateModified: '2016-06-08T17:24:35.901Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-brief-portfolio.md
