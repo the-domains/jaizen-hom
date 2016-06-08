@@ -18,7 +18,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: '@jaizenhom'
+title: Bio + Portfolio + Video
 cta:
   domain: null
   bucket: null
