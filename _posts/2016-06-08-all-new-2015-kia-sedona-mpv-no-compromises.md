@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Kia (Korean - 한국어)
-    url: 'https://www.youtube.com/channel/UC8RFkdM6Ven7HJwszaeOO_w'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/RDvO6UjvU0E'
+inLanguage: en
 keywords:
   - kia
   - sedona
@@ -24,7 +19,13 @@ description: >-
   2015년 세도나를 만나는 순간, 더욱 강력해진 파워와 프리미엄 실내공간의 편안함을 함께 누리실 수 있습니다. 도전적인 성능과 세련된
   스타일의 세도나나로 만나는 도로 위의 또 다른 퍼스트 클래스. 세도나는 스마트 파워 리프트게이트, 2열 퍼스트 클래스 라운지 시트 등 최첨단
   사양등을 탐재해 운전자 및 탐승자 모두가 동일한 편안함을 누리실 수 있게 설계 되었습니다.
-inLanguage: en
+datePublished: '2016-06-08T20:27:07.566Z'
+dateModified: '2016-06-08T20:25:29.891Z'
+author:
+  - name: Kia (Korean - 한국어)
+    url: 'https://www.youtube.com/channel/UC8RFkdM6Ven7HJwszaeOO_w'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=RDvO6UjvU0E&feature=applinks'
     type: ios
@@ -62,15 +63,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/RDvO6UjvU0E'
 title: All-New 2015 Kia Sedona MPV - "No Compromises" 광고
-datePublished: '2016-06-08T18:29:43.235Z'
-dateModified: '2016-06-08T18:26:51.493Z'
-starred: false
 sourcePath: _posts/2016-06-08-all-new-2015-kia-sedona-mpv-no-compromises.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
