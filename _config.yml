@@ -18,7 +18,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Hom...Jaizen Hom...
+title: '@jaizenhom'
 cta:
   domain: null
   bucket: null
