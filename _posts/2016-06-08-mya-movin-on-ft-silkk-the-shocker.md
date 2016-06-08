@@ -1,14 +1,9 @@
 ---
-author:
-  - name: MyaVEVO
-    url: 'https://www.youtube.com/user/MyaVEVO'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/hRN6vgjqcgU'
+inLanguage: en
 keywords:
   - duration
   - mya
@@ -20,10 +15,14 @@ keywords:
   - feat
   - video
   - jon
-description: >-
-  Music video by Mya performing Movin' On. (C) 1998 University Music
-  Entertainment/Interscope Records
-inLanguage: en
+description: jaizen hom in "movin' on" music video
+datePublished: '2016-06-08T18:37:43.619Z'
+dateModified: '2016-06-08T18:33:46.877Z'
+author:
+  - name: MyaVEVO
+    url: 'https://www.youtube.com/user/MyaVEVO'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=hRN6vgjqcgU&feature=applinks'
     type: ios
@@ -61,17 +60,19 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/hRN6vgjqcgU'
 title: Mya - Movin' On ft. Silkk The Shocker
-datePublished: '2016-06-08T18:28:38.622Z'
-dateModified: '2016-06-08T18:04:04.736Z'
-starred: false
 sourcePath: _posts/2016-06-08-mya-movin-on-ft-silkk-the-shocker.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+jaizen hom in "movin' on" music video
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FhRN6vgjqcgU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhRN6vgjqcgU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhRN6vgjqcgU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
