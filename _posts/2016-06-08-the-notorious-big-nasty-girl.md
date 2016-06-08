@@ -1,14 +1,9 @@
 ---
-author:
-  - name: The Notorious B.I.G.
-    url: 'https://www.youtube.com/user/NotoriousBIG'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/ufKxCclo7-c'
+inLanguage: en
 keywords:
   - duration
   - notorious
@@ -25,7 +20,13 @@ description: >-
   Storm From The Notorious B.I.G. album "Duets: The Final Chapter" (2005).
   Download on iTunes: http://bit.ly/I9BhQk Listen on Spotify:
   http://spoti.fi/ISscw8 © 2011 WMG
-inLanguage: en
+datePublished: '2016-06-08T20:09:57.514Z'
+dateModified: '2016-06-08T20:07:57.727Z'
+author:
+  - name: The Notorious B.I.G.
+    url: 'https://www.youtube.com/user/NotoriousBIG'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ufKxCclo7-c&feature=applinks'
     type: ios
@@ -63,15 +64,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/ufKxCclo7-c'
 title: The Notorious B.I.G. - "Nasty Girl"
-datePublished: '2016-06-08T18:29:35.208Z'
-dateModified: '2016-06-08T18:16:08.151Z'
-starred: false
 sourcePath: _posts/2016-06-08-the-notorious-big-nasty-girl.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
