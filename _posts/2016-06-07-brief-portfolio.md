@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-08T17:30:23.976Z'
-dateModified: '2016-06-08T17:30:05.010Z'
+datePublished: '2016-06-08T17:41:41.262Z'
+dateModified: '2016-06-08T17:41:09.382Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-brief-portfolio.md
@@ -50,6 +50,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa1ae14b-031d-47a3-a6bf-100baea91f72.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c043e635-9bc5-47a9-9df2-619e4f0e73b9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e2e1f00-4771-4f56-b1de-25c9ec08e34b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e242825-d161-4a3a-951d-752ea39e3702.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/096c9c7b-c21a-4462-9c0f-64ab5f40792d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab124ec0-4753-4190-ac02-79d1bd50248d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30a4a040-c58f-4435-9a5b-b0277896f57f.jpg)
@@ -65,6 +66,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13c4fa40-2b8f-479a-9299-15879b653e7e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a490772-4ef6-46bb-9c37-7f77cd1de14e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd5a4176-06d8-41ad-ab40-096eab7bc3b1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cba6399-b6be-4e62-b93f-c3ae1a299b3a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdd46fc-6da1-4015-90ff-1645abd04912.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ba56eff-14dc-4cb3-b6eb-3641ba70354d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36567df8-0e85-43c1-be1a-019d229ab6e6.jpg)
