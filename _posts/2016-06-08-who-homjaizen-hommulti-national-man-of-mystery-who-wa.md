@@ -15,8 +15,8 @@ description: >-
   Consultant, Brand Ambassador, Casting Director, Producer, Network Owner who's
   worked aside Superstars such as Britney, Enrique, Beyonce; he's a Humanitarian
   who wants to connect us all.
-datePublished: '2016-06-08T22:18:33.877Z'
-dateModified: '2016-06-08T22:18:14.112Z'
+datePublished: '2016-06-08T22:24:40.883Z'
+dateModified: '2016-06-08T22:18:42.749Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-08-who-homjaizen-hommulti-national-man-of-mystery-who-wa.md
