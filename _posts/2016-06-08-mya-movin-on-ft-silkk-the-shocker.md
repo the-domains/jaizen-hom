@@ -15,9 +15,9 @@ keywords:
   - feat
   - video
   - jon
-description: jaizen hom in "movin' on" music video
-datePublished: '2016-06-08T18:37:43.619Z'
-dateModified: '2016-06-08T18:33:46.877Z'
+description: 'jaizen hom in "movin'' on" #1 mtv music video'
+datePublished: '2016-06-08T18:44:24.350Z'
+dateModified: '2016-06-08T18:44:21.326Z'
 author:
   - name: MyaVEVO
     url: 'https://www.youtube.com/user/MyaVEVO'
@@ -73,6 +73,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-jaizen hom in "movin' on" music video
+jaizen hom in "movin' on" \#1 mtv music video
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FhRN6vgjqcgU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhRN6vgjqcgU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhRN6vgjqcgU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
