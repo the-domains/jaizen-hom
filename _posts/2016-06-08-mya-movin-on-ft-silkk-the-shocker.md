@@ -16,8 +16,8 @@ keywords:
   - video
   - jon
 description: 'Jaizen Hom in "Movin'' On" #1 MTV Music Video'
-datePublished: '2016-06-08T18:48:41.147Z'
-dateModified: '2016-06-08T18:47:49.210Z'
+datePublished: '2016-06-08T20:12:55.904Z'
+dateModified: '2016-06-08T18:48:49.502Z'
 author:
   - name: MyaVEVO
     url: 'https://www.youtube.com/user/MyaVEVO'
