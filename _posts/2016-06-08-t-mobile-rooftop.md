@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Geovanni Abarca
-    url: 'https://www.youtube.com/user/USMobileTek'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/Nl9mDhe_Lco'
+inLanguage: null
 keywords: []
 description: >-
   http://galaxy-s.t-mobile.com/samsung-galaxy-s3 T-Mobile introduces the
@@ -16,16 +11,23 @@ description: >-
   smartphone helps you capture the fun and important events in your life with
   stunning photos and videos, helping you to quickly and easily share with your
   friends and family.
+datePublished: '2016-06-08T20:23:04.672Z'
+dateModified: '2016-06-08T20:22:26.511Z'
+author:
+  - name: Geovanni Abarca
+    url: 'https://www.youtube.com/user/USMobileTek'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://youtu.be/Nl9mDhe_Lco'
 title: T-Mobile Rooftop
-datePublished: '2016-06-08T18:29:40.811Z'
-dateModified: '2016-06-08T18:19:06.241Z'
-starred: false
 sourcePath: _posts/2016-06-08-t-mobile-rooftop.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
