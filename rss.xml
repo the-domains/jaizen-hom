@@ -4,8 +4,15 @@
         <description><![CDATA[Bio + Portfolio + Video ]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 16:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 16:26:08 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Portfolio]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9047b805-4ff6-456c-bfdd-2011a43a54c0.jpg">]]></description>
+            <link>http://jaizenhom.com/brief-portfolio/index.html</link>
+            <guid isPermaLink="false">5606e32d-ba27-45e6-ad69-5b88c63b2768</guid>
+            <pubDate>Thu, 09 Jun 2016 16:25:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Méli-Mélo]]></title>
             <description><![CDATA[<article><h1>Méli-Mélo</h1><p>Jen Awad and Orbilux pictures present Méli-Mélo Written and Directed by Lucia Dompnier Produced by Jen Awad, Lucia Dompnier, Stash Slionski Girl - Mialee Jaydin Boutros DP - Stash Slionski Models Janaina Deveira Lucia Dompnier Mariel Gomsrud Marita Gomsrud Cathrine Haave Jaizen Hom Danielle Korman Stephanie Sandoval Editors Evan Halleck</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c90bdd040c8cebea9a5e8409688910e7cec1863.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://jaizenhom.com/bio/index.html</link>
             <guid isPermaLink="false">bfe81d0f-11ad-40f2-a290-bd1221f7744e</guid>
             <pubDate>Thu, 09 Jun 2016 16:07:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portfolio]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9047b805-4ff6-456c-bfdd-2011a43a54c0.jpg">]]></description>
-            <link>http://jaizenhom.com/brief-portfolio/index.html</link>
-            <guid isPermaLink="false">5606e32d-ba27-45e6-ad69-5b88c63b2768</guid>
-            <pubDate>Thu, 09 Jun 2016 15:48:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budweiser - Perfect Match]]></title>
