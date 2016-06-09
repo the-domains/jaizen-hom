@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-09T00:10:46.123Z'
-dateModified: '2016-06-09T00:10:01.138Z'
+datePublished: '2016-06-09T00:14:15.065Z'
+dateModified: '2016-06-09T00:14:14.380Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-brief-portfolio.md
@@ -46,8 +46,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/803b8c36-a004-49d8-8eb3-5da2a3e02553.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4333697c-7226-44a2-b6cd-9a4c1b395113.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56ce5906-abae-4770-9efa-eda01711029e.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/110263dc-ec07-4617-a42b-0dd15d1bb7de.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e938f82-98c0-440a-a63a-7c87d0df1fbf.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa1ae14b-031d-47a3-a6bf-100baea91f72.jpg)
