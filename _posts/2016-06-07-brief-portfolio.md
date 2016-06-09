@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-09T15:25:31.289Z'
-dateModified: '2016-06-09T15:22:50.072Z'
+datePublished: '2016-06-09T15:48:23.952Z'
+dateModified: '2016-06-09T15:25:45.331Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-brief-portfolio.md
