@@ -4,8 +4,15 @@
         <description><![CDATA[Bio + Portfolio + Video ]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 15:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 15:35:10 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome! Please click on words Bio x Portfolio x Videos = Full Website. Cheers!</p>]]></description>
+            <link>http://jaizenhom.com/welcome-please-click-on-words-bio-x-portfolio-x-videos-fu/index.html</link>
+            <guid isPermaLink="false">cac29548-3f11-475f-a298-4136492f8272</guid>
+            <pubDate>Tue, 05 Jul 2016 15:34:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/956a0dee-6130-495d-962e-0ca6cf66c9e6.png">]]></description>
@@ -68,13 +75,6 @@
             <link>http://perezhilton.com/2012-02-06-full-video-for-melanie-amaro-and-elton-pepsi-commercial#.V1h5CCMrL-n</link>
             <guid isPermaLink="false">06794270-b44a-4c9c-9125-8a1b18d61587</guid>
             <pubDate>Wed, 08 Jun 2016 20:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mya - Movin' On ft. Silkk The Shocker]]></title>
-            <description><![CDATA[<article><h1>Mya - Movin' On ft. Silkk The Shocker</h1><p>Jaizen Hom in "Movin' On" #1 MTV Music Video</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e926ffa31b447ae6574f003eb697346b4acbc08.jpg"></article>]]></description>
-            <link>https://youtu.be/hRN6vgjqcgU</link>
-            <guid isPermaLink="false">c58a983a-1a4d-4c08-a759-6f61ce89a98d</guid>
-            <pubDate>Wed, 08 Jun 2016 20:12:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
