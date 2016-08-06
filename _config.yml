@@ -1,11 +1,36 @@
-name: jaizen hom
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg'
-layout_spectrum: 0.9764073800761253
 typography_spectrum: 0.112766
+color:
+  brandColors:
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
+  brandStrength: 0.4340793604496866
+  lightness: 0.492533179698512
+  saturation: 0.3125972237903625
+  rhythmicContrast: 0.1611969880759716
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
+  type: null
+  appId: null
+layout_spectrum: 0.9764073800761253
+analytics:
+  google: UA-78405620-1
+  facebook: '233560110358876'
+  twitter: null
 author:
   name: Jaizen Hom
   email: jaizen.hom@gmail.com
   url: 'http://jaizenhom.com'
+name: jaizen hom
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
 collections:
   - index:
       path: /
@@ -19,27 +44,4 @@ collections:
       format: rss
       number: 10
 title: 'Bio + Portfolio + Video '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-78405620-1
-  facebook: '233560110358876'
-  twitter: null
-opengraph:
-  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg'
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#F7F2B2'
-    - '#ADCF4F'
-    - '#84815B'
-    - '#4A1A2C'
-    - '#8E3557'
-  brandStrength: 0.4340793604496866
-  lightness: 0.492533179698512
-  saturation: 0.3125972237903625
-  rhythmicContrast: 0.1611969880759716
 purpose: []
