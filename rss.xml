@@ -4,8 +4,15 @@
         <description><![CDATA[Bio + Portfolio + Video ]]></description>
         <link>http://jaizenhom.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 21:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 21:36:19 GMT</lastBuildDate>
         <atom:link href="http://jaizenhom.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bio]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31149c53-d64b-4316-a2c1-78b46734f656.jpg">]]></description>
+            <link>http://jaizenhom.com/bio/index.html</link>
+            <guid isPermaLink="false">bfe81d0f-11ad-40f2-a290-bd1221f7744e</guid>
+            <pubDate>Tue, 09 Aug 2016 21:36:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portfolio]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9047b805-4ff6-456c-bfdd-2011a43a54c0.jpg">]]></description>
