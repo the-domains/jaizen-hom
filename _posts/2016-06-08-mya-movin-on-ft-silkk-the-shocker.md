@@ -15,8 +15,8 @@ keywords:
   - video
   - jon
 description: 'Jaizen Hom in "Movin'' On" #1 MTV Music Video'
-datePublished: '2016-08-11T18:53:34.549Z'
-dateModified: '2016-08-11T18:53:26.381Z'
+datePublished: '2016-08-11T18:56:37.081Z'
+dateModified: '2016-08-11T18:56:36.610Z'
 author:
   - name: MyaVEVO
     url: 'https://www.youtube.com/user/MyaVEVO'
@@ -68,7 +68,7 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 via: {}
-starred: false
+starred: true
 url: mya-movin-on-ft-silkk-the-shocker/index.html
 _type: VideoObject
 _context: 'http://schema.org'
