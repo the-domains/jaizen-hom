@@ -1,9 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: >-
-  http://perezhilton.com/2012-02-06-full-video-for-melanie-amaro-and-elton-pepsi-commercial#.V1h5CCMrL-n
 inLanguage: en
 keywords:
   - melanie
@@ -21,8 +19,8 @@ description: >-
   it like Melanie Amaro and Sir Elton John ! The music legend was an unsatisfied
   king looking for entertainment and Melanie came in and tore the rough off the
   king's court! All Melanie wanted a little respect!
-datePublished: '2016-06-08T20:16:40.814Z'
-dateModified: '2016-06-08T20:02:27.913Z'
+datePublished: '2016-08-11T18:10:36.157Z'
+dateModified: '2016-08-11T18:10:35.727Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +33,9 @@ publisher:
   domain: perezhilton.com
   url: 'http://perezhilton.com'
   favicon: 'http://i.perezhilton.com/favicon.ico'
+via: {}
 starred: false
+url: watch-the-full-video-of-melanie-amaro-and-sir-eltons-pepsi/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
