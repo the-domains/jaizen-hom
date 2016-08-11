@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T19:06:09.530Z'
+datePublished: '2016-08-11T19:09:54.189Z'
 sourcePath: _posts/2016-06-08-mya-movin-on-ft-silkk-the-shocker.md
 inFeed: true
 authors: []
@@ -21,7 +21,7 @@ author:
     url: 'https://www.youtube.com/user/MyaVEVO'
     avatar: {}
 via: {}
-dateModified: '2016-08-11T19:06:08.745Z'
+dateModified: '2016-08-11T19:09:53.626Z'
 title: Mya - Movin' On ft. Silkk The Shocker
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=hRN6vgjqcgU&feature=applinks'
