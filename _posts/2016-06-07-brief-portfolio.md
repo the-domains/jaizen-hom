@@ -5,13 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-10T18:56:51.803Z'
-dateModified: '2016-06-10T18:51:58.346Z'
+datePublished: '2016-08-11T17:56:50.588Z'
+dateModified: '2016-08-11T17:56:49.259Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-brief-portfolio.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: brief-portfolio/index.html
 _type: Article
