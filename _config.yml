@@ -36,6 +36,9 @@ navigation:
   - name: Portfolio
     id: 5606e32d-ba27-45e6-ad69-5b88c63b2768
     type: content
+  - name: Video
+    id: c58a983a-1a4d-4c08-a759-6f61ce89a98d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
 collections:
