@@ -1,47 +1,49 @@
-typography_spectrum: 0.112766
-color:
-  brandColors:
-    - '#F7F2B2'
-    - '#ADCF4F'
-    - '#84815B'
-    - '#4A1A2C'
-    - '#8E3557'
-  brandStrength: 0.4340793604496866
-  lightness: 0.492533179698512
-  saturation: 0.3125972237903625
-  rhythmicContrast: 0.1611969880759716
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
-  type: null
-  appId: null
-layout_spectrum: 0.9764073800761253
+name: jaizen hom
 analytics:
-  google: UA-78405620-1
   facebook: '233560110358876'
-  twitter: null
+  google: UA-78405620-1
+purpose: []
+github: true
+description: "\uD83C\uDDE8\uD83C\uDDFACUBA+CHINA\uD83C\uDDE8\uD83C\uDDF3 NY+LA \uD83C\uDDFA\uD83C\uDDF8 \uD83C\uDF0F TRAVEL fashion+art+multimedia+entertainment #jaizenhom lifestyle + #THEmPOT culture info@jaizenhom.com + info@THEmPOT.com"
 author:
   name: Jaizen Hom
-  email: jaizen.hom@gmail.com
   url: 'http://jaizenhom.com'
-name: jaizen hom
+  email: jaizen.hom@gmail.com
 cta:
-  domain: null
   bucket: null
   version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
+  domain: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Bio + Portfolio + Video '
-purpose: []
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.9764073800761253
+color:
+  lightness: 0.492533179698512
+  brandColors:
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
+  saturation: 0.3125972237903625
+  brandStrength: 0.4340793604496866
+  rhythmicContrast: 0.1611969880759716
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
+content_rating:
+  adult: false
+typography_spectrum: 0.112766
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
+title: jaizen hom
