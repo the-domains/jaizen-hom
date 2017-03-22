@@ -2,7 +2,10 @@ name: jaizen hom
 analytics:
   facebook: '233560110358876'
   google: UA-78405620-1
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:info@jaizenhom.com'
+    label: Contact me
 github: true
 description: "\uD83C\uDDE8\uD83C\uDDFACUBA+CHINA\uD83C\uDDE8\uD83C\uDDF3 NY+LA \uD83C\uDDFA\uD83C\uDDF8 \uD83C\uDF0F TRAVEL fashion+art+multimedia+entertainment #jaizenhom lifestyle + #THEmPOT culture info@jaizenhom.com + info@THEmPOT.com"
 author:
