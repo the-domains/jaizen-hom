@@ -1,52 +1,52 @@
+content: []
+description: "\uD83C\uDDE8\uD83C\uDDFACUBA+CHINA\uD83C\uDDE8\uD83C\uDDF3 NY+LA \uD83C\uDDFA\uD83C\uDDF8 \uD83C\uDF0F TRAVEL SAG-AFTRA / M MOD MGMT / GOOGLE PARTNER #THEmPOT Culture info@THEmPOT.com #JaizenHom Lifestyle info@jaizenhom.com"
+title: jaizen hom
+content_rating:
+  adult: false
+cta:
+  domain: null
+  bucket: null
+  version: null
+github: true
+layout_spectrum: 0.9764073800761253
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
+author:
+  url: 'http://jaizenhom.com'
+  name: Jaizen Hom
+  email: jaizen.hom@gmail.com
 name: jaizen hom
+purpose:
+  - url: 'mailto:info@jaizenhom.com'
+    type: contact
+    label: Contact
 analytics:
   facebook: '233560110358876'
   google: UA-78405620-1
-purpose:
-  - type: contact
-    url: 'mailto:info@jaizenhom.com'
-    label: Contact
-github: true
-description: "\uD83C\uDDE8\uD83C\uDDFACUBA+CHINA\uD83C\uDDE8\uD83C\uDDF3 NY+LA \uD83C\uDDFA\uD83C\uDDF8 \uD83C\uDF0F TRAVEL fashion+art+multimedia+entertainment #jaizenhom lifestyle + #THEmPOT culture info@jaizenhom.com + info@THEmPOT.com"
-author:
-  name: Jaizen Hom
-  url: 'http://jaizenhom.com'
-  email: jaizen.hom@gmail.com
-cta:
-  bucket: null
-  version: null
-  domain: null
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
     permalink:
       path: '/:title/'
-content: []
-layout_spectrum: 0.9764073800761253
 color:
+  brandStrength: 0.4340793604496866
   lightness: 0.492533179698512
+  saturation: 0.3125972237903625
+  rhythmicContrast: 0.1611969880759716
   brandColors:
     - '#F7F2B2'
     - '#ADCF4F'
     - '#84815B'
     - '#4A1A2C'
     - '#8E3557'
-  saturation: 0.3125972237903625
-  brandStrength: 0.4340793604496866
-  rhythmicContrast: 0.1611969880759716
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
-content_rating:
-  adult: false
 typography_spectrum: 0.112766
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
-title: jaizen hom
