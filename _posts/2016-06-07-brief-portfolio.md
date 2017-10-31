@@ -1,25 +1,26 @@
 ---
-datePublished: '2017-10-31T14:13:33.738Z'
-sourcePath: _posts/2016-06-07-brief-portfolio.md
-inFeed: true
+datePublished: '2017-10-31T14:33:34.854Z'
 authors: []
-hasPage: true
-keywords: []
-author:
-  - {}
-via: {}
-dateModified: '2017-10-31T14:13:18.681Z'
-title: ''
-publisher: {}
 description: ''
-inLanguage: null
+via: {}
+keywords: []
+inFeed: true
+publisher: {}
+dateModified: '2017-10-31T14:33:26.894Z'
+sourcePath: _posts/2016-06-07-brief-portfolio.md
+title: ''
+hasPage: true
+author: []
 starred: false
 datePublishedOriginal: '2017-10-31T14:13:33.738Z'
 url: portfolio/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9047b805-4ff6-456c-bfdd-2011a43a54c0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0553a900-642e-4842-925e-1af22dc346f2.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6e38583-ef5a-4116-9415-722dd291c9b3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9044a36f-8bd4-40e3-9add-596ecb94be4f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4dd808-d80d-4deb-a689-8bbb051970e7.jpg)
