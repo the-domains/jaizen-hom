@@ -1,14 +1,14 @@
 ---
-datePublished: '2017-10-31T14:33:34.854Z'
+datePublished: '2018-03-06T03:49:53.339Z'
 authors: []
 description: ''
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-10-31T14:33:26.894Z'
+dateModified: '2018-03-06T03:48:53.671Z'
 sourcePath: _posts/2016-06-07-brief-portfolio.md
-title: ''
+title: View More
 hasPage: true
 author: []
 starred: false
