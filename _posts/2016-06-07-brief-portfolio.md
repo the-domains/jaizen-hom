@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-03-09T05:13:03.093Z'
+datePublished: '2018-03-09T05:26:13.578Z'
 authors: []
 description: ''
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-03-09T05:12:39.734Z'
+dateModified: '2018-03-09T05:26:07.772Z'
 sourcePath: _posts/2016-06-07-brief-portfolio.md
 title: ''
 hasPage: true
@@ -17,12 +17,8 @@ url: portfolio/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53c49374-fe22-44ac-a9b6-d96ff9fe7c43.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf91145c-7bfa-4a8e-bb1a-f960de272ba0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6e38583-ef5a-4116-9415-722dd291c9b3.jpg)
-
----
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9044a36f-8bd4-40e3-9add-596ecb94be4f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4dd808-d80d-4deb-a689-8bbb051970e7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05ca8f64-9f50-4806-b9f8-2ed3f9df1b61.jpg)
