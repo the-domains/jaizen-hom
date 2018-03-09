@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-03-09T05:29:05.233Z'
+datePublished: '2018-03-09T05:29:50.949Z'
 authors: []
 description: ''
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-03-09T05:29:01.838Z'
+dateModified: '2018-03-09T05:29:31.385Z'
 sourcePath: _posts/2016-06-07-brief-portfolio.md
 title: ''
 hasPage: true
