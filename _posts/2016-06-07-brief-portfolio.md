@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-03-09T05:36:13.057Z'
+datePublished: '2018-03-12T03:33:05.307Z'
 authors: []
 description: ''
 via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2018-03-09T05:35:30.282Z'
+dateModified: '2018-03-12T03:32:58.063Z'
 sourcePath: _posts/2016-06-07-brief-portfolio.md
 title: Portfolio
 hasPage: true
@@ -23,7 +23,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6e38583-ef5a-4116-9415-722dd291c9b3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9044a36f-8bd4-40e3-9add-596ecb94be4f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4dd808-d80d-4deb-a689-8bbb051970e7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05ca8f64-9f50-4806-b9f8-2ed3f9df1b61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63e4a62-4ce5-4730-8f09-05d31173daa3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03e1c978-5705-4b40-ba37-bf1be7936417.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b92368b-6c66-4d45-955f-c2a8a8e9bc6b.jpg)
