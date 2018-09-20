@@ -21,12 +21,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 layout_spectrum: 0.9764073800761253
 color:
@@ -48,4 +48,4 @@ typography_spectrum: 0.112766
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
-title: jaizen hom
+title: Jaizen Hom 2018
