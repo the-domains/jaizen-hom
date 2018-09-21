@@ -1,20 +1,40 @@
-name: '#jaizenhom'
+typography_spectrum: 0.112766
+content_rating:
+  adult: false
+color:
+  lightness: 0.492533179698512
+  brandColors:
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
+  saturation: 0.3125972237903625
+  brandStrength: 0.4340793604496866
+  rhythmicContrast: 0.1611969880759716
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
+layout_spectrum: 0.9764073800761253
 analytics:
   facebook: '233560110358876'
   google: UA-78405620-1
-purpose:
-  - url: 'mailto:info@jaizenhom.com'
-    type: contact
-    label: Contact
-github: true
 author:
   name: Jaizen Hom
   url: 'http://jaizenhom.com'
   email: jaizen.hom@gmail.com
+name: '#jaizenhom'
 cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: About/Contact
+    id: bfe81d0f-11ad-40f2-a290-bd1221f7744e
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
 collections:
   - index:
       path: /
@@ -27,25 +47,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content: []
-layout_spectrum: 0.9764073800761253
-color:
-  lightness: 0.492533179698512
-  brandColors:
-    - '#F7F2B2'
-    - '#ADCF4F'
-    - '#84815B'
-    - '#4A1A2C'
-    - '#8E3557'
-  saturation: 0.3125972237903625
-  brandStrength: 0.4340793604496866
-  rhythmicContrast: 0.1611969880759716
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
-content_rating:
-  adult: false
-typography_spectrum: 0.112766
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
 title: jaizen hom
+content: []
+purpose:
+  - url: 'mailto:info@jaizenhom.com'
+    type: contact
+    label: Contact
