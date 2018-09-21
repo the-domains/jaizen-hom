@@ -52,7 +52,4 @@ collections:
       number: 10
 title: jaizen hom
 content: []
-purpose:
-  - url: 'mailto:info@jaizenhom.com'
-    type: contact
-    label: Contact
+purpose: []
