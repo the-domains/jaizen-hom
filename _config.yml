@@ -39,6 +39,9 @@ navigation:
   - name: Videos
     id: 51c6585a-189e-4fc0-af8e-1ec81cdd7dad
     type: content
+  - name: Videos
+    id: 8ea716a3-589b-408c-86c7-3a6214f7cbcd
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
 collections:
