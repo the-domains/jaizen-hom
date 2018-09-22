@@ -18,8 +18,8 @@ description: >-
   it like Melanie Amaro and Sir Elton John ! The music legend was an unsatisfied
   king looking for entertainment and Melanie came in and tore the rough off the
   king's court! All Melanie wanted a little respect!
-datePublished: '2018-09-22T02:30:38.250Z'
-dateModified: '2018-09-22T02:30:36.950Z'
+datePublished: '2018-09-22T21:10:09.479Z'
+dateModified: '2018-09-22T21:10:08.384Z'
 author: []
 related: []
 app_links: []
