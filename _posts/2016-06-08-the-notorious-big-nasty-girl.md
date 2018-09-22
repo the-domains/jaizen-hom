@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inLanguage: en
 keywords:
@@ -18,8 +18,8 @@ description: >-
   Storm From The Notorious B.I.G. album "Duets: The Final Chapter" (2005).
   Download on iTunes: http://bit.ly/I9BhQk Listen on Spotify:
   http://spoti.fi/ISscw8 © 2011 WMG
-datePublished: '2018-09-22T00:55:39.845Z'
-dateModified: '2018-09-22T00:55:38.092Z'
+datePublished: '2018-09-22T02:34:43.517Z'
+dateModified: '2018-09-22T02:34:42.274Z'
 author:
   - name: The Notorious B.I.G.
     url: 'https://www.youtube.com/user/NotoriousBIG'
