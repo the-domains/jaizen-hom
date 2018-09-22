@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-09-22T00:55:40.038Z'
+datePublished: '2018-09-22T02:29:28.742Z'
 authors: []
 description: ''
 via: {}
 keywords: []
-inFeed: true
+inFeed: false
 publisher: {}
-dateModified: '2018-09-22T00:55:38.092Z'
+dateModified: '2018-09-22T02:29:25.474Z'
 sourcePath: _posts/2016-06-07-brief-portfolio.md
 title: Portfolio
 hasPage: true
@@ -14,7 +14,7 @@ author: []
 starred: false
 datePublishedOriginal: '2018-09-20T06:09:18.443Z'
 url: portfolio/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc66f625-f66f-4daf-a3f1-428231eeb1c8.jpg)
