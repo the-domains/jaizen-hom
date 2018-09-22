@@ -1,7 +1,6 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: en
 keywords:
   - melanie
@@ -19,8 +18,8 @@ description: >-
   it like Melanie Amaro and Sir Elton John ! The music legend was an unsatisfied
   king looking for entertainment and Melanie came in and tore the rough off the
   king's court! All Melanie wanted a little respect!
-datePublished: '2016-08-11T19:14:52.259Z'
-dateModified: '2016-08-11T19:01:24.796Z'
+datePublished: '2018-09-22T00:55:39.899Z'
+dateModified: '2018-09-22T00:55:38.092Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +34,7 @@ publisher:
   favicon: 'http://i.perezhilton.com/favicon.ico'
 via: {}
 starred: false
+datePublishedOriginal: '2016-09-06T17:28:55.125Z'
 url: watch-the-full-video-of-melanie-amaro-and-sir-eltons-pepsi/index.html
 _context: 'http://schema.org'
 _type: MediaObject
