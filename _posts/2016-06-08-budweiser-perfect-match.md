@@ -1,47 +1,46 @@
 ---
-datePublished: '2016-08-11T19:21:05.803Z'
+datePublished: '2018-09-22T00:55:39.454Z'
 sourcePath: _posts/2016-06-08-budweiser-perfect-match.md
 inFeed: true
-isBasedOnUrl: 'https://youtu.be/iMnSHTI4SIs'
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author:
   - name: BudweiserES
     url: 'https://www.youtube.com/user/BudweiserLiveEs'
     avatar: {}
-dateModified: '2016-08-11T19:01:48.550Z'
+dateModified: '2018-09-22T00:55:38.092Z'
 title: Budweiser - Perfect Match
 app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
+  - app_store_id: '544007664'
+    namespace: ai
+    app_name: YouTube
+    url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
     type: ios
-    namespace: ai
-    app_store_id: '544007664'
+  - package: com.google.android.youtube
     app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
+    namespace: ai
+    url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
     type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
     type: web
     namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
+  - id: '544007664'
     namespace: twitter
+    url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
     type: ipad
     name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
+  - id: '544007664'
     namespace: twitter
+    url: 'vnd.youtube://www.youtube.com/watch?v=iMnSHTI4SIs&feature=applinks'
     type: iphone
     name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=iMnSHTI4SIs'
+  - id: com.google.android.youtube
     namespace: twitter
+    url: 'https://www.youtube.com/watch?v=iMnSHTI4SIs'
     type: googleplay
     name: YouTube
-    id: com.google.android.youtube
   - path: http/www.youtube.com/watch?v=iMnSHTI4SIs
     package: com.google.android.youtube
     namespace: google
@@ -60,9 +59,10 @@ description: >-
   perfecta. http://www.budweiser.es http://www.facebook.com/BudweiserSpain
   https://twitter.com/Budweiser_es
 inLanguage: ca
-inNav: false
 via: {}
 starred: false
+datePublishedOriginal: '2016-09-06T17:47:57.318Z'
+url: budweiser-perfect-match/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
