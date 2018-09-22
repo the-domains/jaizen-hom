@@ -1,8 +1,6 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://youtu.be/Nl9mDhe_Lco'
+hasPage: true
 inLanguage: null
 keywords: []
 description: >-
@@ -11,8 +9,8 @@ description: >-
   smartphone helps you capture the fun and important events in your life with
   stunning photos and videos, helping you to quickly and easily share with your
   friends and family.
-datePublished: '2016-08-11T19:18:02.372Z'
-dateModified: '2016-08-11T19:01:21.268Z'
+datePublished: '2018-09-22T00:55:40.025Z'
+dateModified: '2018-09-22T00:55:38.092Z'
 author:
   - name: Geovanni Abarca
     url: 'https://www.youtube.com/user/USMobileTek'
@@ -29,6 +27,8 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
 via: {}
 starred: false
+datePublishedOriginal: '2016-09-06T17:39:40.513Z'
+url: t-mobile-rooftop/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
