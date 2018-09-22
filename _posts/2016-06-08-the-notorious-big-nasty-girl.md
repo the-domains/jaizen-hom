@@ -1,8 +1,6 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://youtu.be/ufKxCclo7-c'
+hasPage: true
 inLanguage: en
 keywords:
   - duration
@@ -20,42 +18,42 @@ description: >-
   Storm From The Notorious B.I.G. album "Duets: The Final Chapter" (2005).
   Download on iTunes: http://bit.ly/I9BhQk Listen on Spotify:
   http://spoti.fi/ISscw8 © 2011 WMG
-datePublished: '2016-08-11T19:16:25.308Z'
-dateModified: '2016-08-11T19:01:32.827Z'
+datePublished: '2018-09-22T00:55:39.845Z'
+dateModified: '2018-09-22T00:55:38.092Z'
 author:
   - name: The Notorious B.I.G.
     url: 'https://www.youtube.com/user/NotoriousBIG'
     avatar: {}
 related: []
 app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=ufKxCclo7-c&feature=applinks'
+  - app_store_id: '544007664'
+    namespace: ai
+    app_name: YouTube
+    url: 'vnd.youtube://www.youtube.com/watch?v=ufKxCclo7-c&feature=applinks'
     type: ios
-    namespace: ai
-    app_store_id: '544007664'
+  - package: com.google.android.youtube
     app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=ufKxCclo7-c&feature=applinks'
+    namespace: ai
+    url: 'vnd.youtube://www.youtube.com/watch?v=ufKxCclo7-c&feature=applinks'
     type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=ufKxCclo7-c&feature=applinks'
     type: web
     namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=ufKxCclo7-c&feature=applinks'
+  - id: '544007664'
     namespace: twitter
+    url: 'vnd.youtube://www.youtube.com/watch?v=ufKxCclo7-c&feature=applinks'
     type: ipad
     name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=ufKxCclo7-c&feature=applinks'
+  - id: '544007664'
     namespace: twitter
+    url: 'vnd.youtube://www.youtube.com/watch?v=ufKxCclo7-c&feature=applinks'
     type: iphone
     name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=ufKxCclo7-c'
+  - id: com.google.android.youtube
     namespace: twitter
+    url: 'https://www.youtube.com/watch?v=ufKxCclo7-c'
     type: googleplay
     name: YouTube
-    id: com.google.android.youtube
   - path: http/www.youtube.com/watch?v=ufKxCclo7-c
     package: com.google.android.youtube
     namespace: google
@@ -74,6 +72,8 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 via: {}
 starred: false
+datePublishedOriginal: '2016-09-06T17:30:33.966Z'
+url: the-notorious-big-nasty-girl/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
