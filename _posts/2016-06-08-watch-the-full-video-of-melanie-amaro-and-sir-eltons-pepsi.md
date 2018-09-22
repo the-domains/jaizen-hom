@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inLanguage: en
 keywords:
@@ -18,8 +18,8 @@ description: >-
   it like Melanie Amaro and Sir Elton John ! The music legend was an unsatisfied
   king looking for entertainment and Melanie came in and tore the rough off the
   king's court! All Melanie wanted a little respect!
-datePublished: '2018-09-22T00:55:39.899Z'
-dateModified: '2018-09-22T00:55:38.092Z'
+datePublished: '2018-09-22T02:30:38.250Z'
+dateModified: '2018-09-22T02:30:36.950Z'
 author: []
 related: []
 app_links: []
@@ -40,4 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Watch The Full Video Of Melanie Amaro and Sir Elton's Pepsi Commercial!!</h1><p>The Super Bowl was filled with celeb endorsed advertisements. But none rocked it like Melanie Amaro and Sir Elton John ! The music legend was an unsatisfied king looking for entertainment and Melanie came in and tore the rough off the king's court! All Melanie wanted a little respect!</p><img src="http://i.perezhilton.com/wp-content/uploads/2016/05/james-corden-carpool-karaoke-ranked-adele.gif" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bedbe1ca635646c96f1109b593dbcabeb5469122.gif" /><h1>Watch The Full Video Of Melanie Amaro and Sir Elton's Pepsi Commercial!!</h1><p>The Super Bowl was filled with celeb endorsed advertisements. But none rocked it like Melanie Amaro and Sir Elton John ! The music legend was an unsatisfied king looking for entertainment and Melanie came in and tore the rough off the king's court! All Melanie wanted a little respect!</p></article>
