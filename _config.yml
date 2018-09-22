@@ -36,6 +36,9 @@ navigation:
   - name: Photos
     id: 5606e32d-ba27-45e6-ad69-5b88c63b2768
     type: content
+  - name: Videos
+    id: 51c6585a-189e-4fc0-af8e-1ec81cdd7dad
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
 collections:
@@ -52,5 +55,5 @@ collections:
       number: 10
 title: ''
 content: []
-purpose: []
 description: ''
+purpose: []
