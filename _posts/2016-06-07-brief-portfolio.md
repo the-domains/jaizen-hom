@@ -1,14 +1,14 @@
 ---
-datePublished: '2018-09-22T02:29:28.742Z'
+datePublished: '2018-09-22T18:02:59.499Z'
 authors: []
 description: ''
 via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2018-09-22T02:29:25.474Z'
+dateModified: '2018-09-22T18:02:54.333Z'
 sourcePath: _posts/2016-06-07-brief-portfolio.md
-title: Portfolio
+title: Photos
 hasPage: true
 author: []
 starred: false
