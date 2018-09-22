@@ -9,8 +9,8 @@ description: >-
   smartphone helps you capture the fun and important events in your life with
   stunning photos and videos, helping you to quickly and easily share with your
   friends and family.
-datePublished: '2018-09-22T02:33:49.084Z'
-dateModified: '2018-09-22T02:33:47.694Z'
+datePublished: '2018-09-22T21:10:09.452Z'
+dateModified: '2018-09-22T21:10:08.384Z'
 author:
   - name: Geovanni Abarca
     url: 'https://www.youtube.com/user/USMobileTek'
