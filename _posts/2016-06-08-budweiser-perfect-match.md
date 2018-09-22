@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-09-22T21:10:09.460Z'
+datePublished: '2018-09-22T21:10:09.459Z'
 sourcePath: _posts/2016-06-08-budweiser-perfect-match.md
 inFeed: false
 authors: []
@@ -61,7 +61,7 @@ description: >-
 inLanguage: ca
 via: {}
 starred: false
-datePublishedOriginal: '2018-09-22T20:45:14.516Z'
+datePublishedOriginal: '2018-09-22T20:44:50.294Z'
 url: budweiser-perfect-match/index.html
 _context: 'http://schema.org'
 _type: VideoObject
