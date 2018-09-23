@@ -1,14 +1,14 @@
 ---
-datePublished: '2018-09-23T04:13:20.286Z'
+datePublished: '2018-09-23T04:21:53.711Z'
 authors: []
 description: ''
 via: {}
 keywords: []
 inFeed: false
 publisher: {}
-dateModified: '2018-09-23T04:13:18.112Z'
+dateModified: '2018-09-23T04:21:51.534Z'
 sourcePath: _posts/2016-06-07-brief-portfolio.md
-title: Test
+title: ''
 hasPage: true
 author: []
 starred: false
@@ -17,11 +17,6 @@ url: portfolio/index.html
 _type: Blurb
 
 ---
-# Test
-
-## Test
-
-### Test
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc66f625-f66f-4daf-a3f1-428231eeb1c8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5fbd076-f9fc-479f-aa5a-9d93ffd1ab5d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf91145c-7bfa-4a8e-bb1a-f960de272ba0.jpg)
