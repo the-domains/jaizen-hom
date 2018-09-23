@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-09-23T04:31:28.379Z'
+datePublished: '2018-09-23T04:31:29.568Z'
 sourcePath: _posts/2016-06-08-budweiser-perfect-match.md
 inFeed: false
 authors: []
@@ -10,7 +10,7 @@ author:
   - name: BudweiserES
     url: 'https://www.youtube.com/user/BudweiserLiveEs'
     avatar: {}
-dateModified: '2018-09-23T04:31:27.625Z'
+dateModified: '2018-09-23T04:31:28.969Z'
 title: Budweiser - Perfect Match
 app_links:
   - app_store_id: '544007664'
