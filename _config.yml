@@ -30,7 +30,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: About/Contact
+  - name: About
     id: bfe81d0f-11ad-40f2-a290-bd1221f7744e
     type: content
   - name: Photos
