@@ -1,5 +1,6 @@
-layout_spectrum: 0.05509553359323504
 typography_spectrum: 0.11360950771119852
+content_rating:
+  adult: false
 color:
   lightness: 0.914043906765741
   brandColors:
@@ -11,12 +12,11 @@ color:
   saturation: 0.27767085517037404
   brandStrength: 0.8206357488743408
   rhythmicContrast: 0.8195113273225909
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
+layout_spectrum: 0.05509553359323504
 analytics:
   facebook: '233560110358876'
   google: UA-78405620-1
@@ -38,6 +38,9 @@ navigation:
     type: content
   - name: Videos
     id: 51c6585a-189e-4fc0-af8e-1ec81cdd7dad
+    type: content
+  - name: Contact
+    id: d7284858-78a7-4233-85c9-6b6b7bad4ded
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
