@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: 'Please email: info@jaizenhom.com'
-dateModified: '2018-09-23T04:44:19.328Z'
-datePublished: '2018-09-23T04:44:20.266Z'
+dateModified: '2018-09-23T04:53:46.339Z'
+datePublished: '2018-09-23T04:53:47.274Z'
 title: ''
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-09-23T04:40:29.339Z'
 url: please-email-infojaizenhomcom/index.html
-_type: Article
+_type: Blurb
 
 ---
 Please email: info@jaizenhom.com
