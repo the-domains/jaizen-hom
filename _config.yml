@@ -1,6 +1,44 @@
-typography_spectrum: 0.11360950771119852
-content_rating:
-  adult: false
+name: '#jaizenhom '
+analytics:
+  facebook: '233560110358876'
+  google: UA-78405620-1
+purpose: []
+github: true
+author:
+  name: Jaizen Hom
+  url: 'http://jaizenhom.com'
+  email: jaizen.hom@gmail.com
+cta:
+  bucket: null
+  version: null
+  domain: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+navigation:
+  - id: bfe81d0f-11ad-40f2-a290-bd1221f7744e
+    name: About
+    type: content
+  - id: 5606e32d-ba27-45e6-ad69-5b88c63b2768
+    name: Photos
+    type: content
+  - id: 51c6585a-189e-4fc0-af8e-1ec81cdd7dad
+    name: Videos
+    type: content
+  - id: d7284858-78a7-4233-85c9-6b6b7bad4ded
+    name: Contact
+    type: content
+layout_spectrum: 0.05509553359323504
 color:
   lightness: 0.914043906765741
   brandColors:
@@ -12,51 +50,11 @@ color:
   saturation: 0.27767085517037404
   brandStrength: 0.8206357488743408
   rhythmicContrast: 0.8195113273225909
-github: true
+content_rating:
+  adult: false
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
+typography_spectrum: 0.11360950771119852
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
-layout_spectrum: 0.05509553359323504
-analytics:
-  facebook: '233560110358876'
-  google: UA-78405620-1
-author:
-  name: Jaizen Hom
-  url: 'http://jaizenhom.com'
-  email: jaizen.hom@gmail.com
-name: ' '
-cta:
-  bucket: null
-  version: null
-  domain: null
-navigation:
-  - name: About
-    id: bfe81d0f-11ad-40f2-a290-bd1221f7744e
-    type: content
-  - name: Photos
-    id: 5606e32d-ba27-45e6-ad69-5b88c63b2768
-    type: content
-  - name: Videos
-    id: 51c6585a-189e-4fc0-af8e-1ec81cdd7dad
-    type: content
-  - name: Contact
-    id: d7284858-78a7-4233-85c9-6b6b7bad4ded
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: ''
-content: []
-description: ''
-purpose: []
