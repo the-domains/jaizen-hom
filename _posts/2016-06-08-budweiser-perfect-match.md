@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-09-23T04:31:29.568Z'
+datePublished: '2018-09-23T04:31:45.909Z'
 sourcePath: _posts/2016-06-08-budweiser-perfect-match.md
 inFeed: false
 authors: []
@@ -10,7 +10,7 @@ author:
   - name: BudweiserES
     url: 'https://www.youtube.com/user/BudweiserLiveEs'
     avatar: {}
-dateModified: '2018-09-23T04:31:28.969Z'
+dateModified: '2018-09-23T04:31:45.441Z'
 title: Budweiser - Perfect Match
 app_links:
   - app_store_id: '544007664'
@@ -54,7 +54,10 @@ publisher:
   domain: youtu.be
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-description: T
+description: >-
+  Noches calurosas, Budweisers refrescantes. Descubre por qué son la combinación
+  perfecta. http://www.budweiser.es http://www.facebook.com/BudweiserSpain
+  https://twitter.com/Budweiser_es
 inLanguage: ca
 via: {}
 starred: false
@@ -65,5 +68,3 @@ _type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FiMnSHTI4SIs%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiMnSHTI4SIs&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiMnSHTI4SIs%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-T
