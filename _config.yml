@@ -1,3 +1,16 @@
+layout_spectrum: 0.09174520077589567
+typography_spectrum: 0.4671341002263166
+color:
+  lightness: 0.6441383405372796
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  saturation: 0.1408220087026827
+  brandStrength: 0.496293481755264
+  rhythmicContrast: 0.6675614495355046
 name: '#jaizenhom'
 analytics:
   facebook: '233560110358876'
@@ -38,23 +51,10 @@ navigation:
   - id: d7284858-78a7-4233-85c9-6b6b7bad4ded
     name: Contact
     type: content
-layout_spectrum: 0.05509553359323504
-color:
-  lightness: 0.914043906765741
-  brandColors:
-    - '#F7F2B2'
-    - '#ADCF4F'
-    - '#84815B'
-    - '#4A1A2C'
-    - '#8E3557'
-  saturation: 0.27767085517037404
-  brandStrength: 0.8206357488743408
-  rhythmicContrast: 0.8195113273225909
 content_rating:
   adult: false
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3f4fc2-bf54-46ec-b69f-73e07649de49.jpg
-typography_spectrum: 0.11360950771119852
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee080e0-d29f-4a78-973e-c475f208c5a7.jpg
