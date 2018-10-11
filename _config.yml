@@ -1,16 +1,16 @@
-layout_spectrum: 0.09174520077589567
-typography_spectrum: 0.4671341002263166
+layout_spectrum: 0.7001014340323128
+typography_spectrum: 0.5323783950324142
 color:
-  lightness: 0.6441383405372796
+  lightness: 0.8829800239406379
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
-  saturation: 0.1408220087026827
-  brandStrength: 0.496293481755264
-  rhythmicContrast: 0.6675614495355046
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  saturation: 0.902561425665707
+  brandStrength: 0.08928807813250045
+  rhythmicContrast: 0.550645522883457
 name: '#jaizenhom'
 analytics:
   facebook: '233560110358876'
