@@ -1,16 +1,16 @@
-layout_spectrum: 0.993632775749919
-typography_spectrum: 0.4352670230374367
+layout_spectrum: 0.8059138116159357
+typography_spectrum: 0.35612185895904014
 color:
-  lightness: 0.4247589490549768
+  lightness: 0.16666721452414843
   brandColors:
     - '#85DB18'
     - '#CDE855'
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
-  saturation: 0.26090437983669856
-  brandStrength: 0.48256578696864
-  rhythmicContrast: 0.9147758769700396
+  saturation: 0.18578824881611777
+  brandStrength: 0.06352283479821047
+  rhythmicContrast: 0.5619464831946805
 name: '#jaizenhom'
 analytics:
   facebook: '233560110358876'
