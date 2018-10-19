@@ -1,8 +1,8 @@
 ---
 inFeed: false
-description: 'Please email: info@jaizenhom.com'
-dateModified: '2018-09-23T04:53:46.339Z'
-datePublished: '2018-09-23T04:53:47.274Z'
+description: 'Email: info@jaizenhom.com'
+dateModified: '2018-10-19T01:22:11.787Z'
+datePublished: '2018-10-19T01:22:12.653Z'
 title: ''
 author: []
 publisher: {}
@@ -15,18 +15,6 @@ url: please-email-infojaizenhomcom/index.html
 _type: Blurb
 
 ---
-Please email: info@jaizenhom.com
+Email: info@jaizenhom.com
 
-Peace & ❤️
-
---
-
-Stay Social
-
-instagram.com/jaizenhom
-
-facebook.com/jaizenhom
-
-twitter.com/jaizenhom
-
-gab.com/jaizenhom
+Social: instagram.com/jaizenhom
